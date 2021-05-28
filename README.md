@@ -1,5 +1,6 @@
 # southern_ocean_fafmip
-Code and scripts associated with fafmip faf-stress, faf-antwater, and faf-antwater-stress simulations and analysis of results
+
+Code and scripts associated with fafmip faf-stress, faf-antwater, and faf-antwater-stress simulations and analysis of results as documented in Beadling et al. 2021, JGROceans
 
 These simulations are part of the Flux-anomaly-forced model intercomparison project (FAFMIP).
 
